@@ -1,0 +1,15 @@
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\bin\Debug\net6.0\Exampl001_Helloconsole.exe
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\bin\Debug\net6.0\Exampl001_Helloconsole.deps.json
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\bin\Debug\net6.0\Exampl001_Helloconsole.runtimeconfig.json
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\bin\Debug\net6.0\Exampl001_Helloconsole.dll
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\bin\Debug\net6.0\Exampl001_Helloconsole.pdb
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.csproj.AssemblyReference.cache
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.AssemblyInfoInputs.cache
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.AssemblyInfo.cs
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.csproj.CoreCompileInputs.cache
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.dll
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\refint\Exampl001_Helloconsole.dll
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.pdb
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\Exampl001_Helloconsole.genruntimeconfig.cache
+E:\Slava\Учеба\EXAMPLES\Exampl001_Helloconsole\obj\Debug\net6.0\ref\Exampl001_Helloconsole.dll
